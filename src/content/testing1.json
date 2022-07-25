@@ -7,6 +7,14 @@
       "thumbnail": "images/win_20220530_14_43_20_pro.jpg",
       "rating": 3,
       "body": "*this is body*\n\n\n\n***this is also body***\n\n\n\nthis as well"
+    },
+    {
+      "label": "blog",
+      "date": "2022-07-25T11:55:54.439Z",
+      "title": "second ",
+      "thumbnail": "images/lovro_hodak.png",
+      "rating": -1,
+      "body": "body"
     }
   ]
 }
