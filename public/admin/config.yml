@@ -12,14 +12,14 @@ collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     files:
-      - file: src/content/testing.json
-        name: testing
-        label: 'Testing'
+      - file: src/content/testing1.json
+        name: testing1
+        label: 'Testing1'
         fields:
-          -label: "Testing"
-           name: testing
-           widget: list
-           fields:
+          - label: "Testing1"
+            name: testing1
+            widget: list
+            fields:
             - label: "Layout"
               name: label
               widget: hidden
