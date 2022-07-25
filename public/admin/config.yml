@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: LovroHodak/TypeformZapier
+  repo: LovroHodak/TypeformZapierNetlifyCMS
   branch: main
   #change the name of repo to yours
 
