@@ -13,3 +13,8 @@ try it
 1 step (app, acount, triger).... do required steps
 publish
 done
+
+NETLIFY CMS
+public - admin : index.html, config.yml
+
+
